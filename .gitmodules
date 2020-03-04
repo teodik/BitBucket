@@ -1,0 +1,6 @@
+[submodule "BitBucket-test"]
+	path = BitBucket-test
+	url = https://github.com/teodik/BitBucket-test.git
+[submodule "BitBucket-master"]
+	path = BitBucket-master
+	url = https://github.com/teodik/BitBucket-master.git
